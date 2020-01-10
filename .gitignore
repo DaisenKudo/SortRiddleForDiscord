@@ -1,0 +1,10 @@
+.idea
+build
+.gradle
+gradle/wrapper/gradle-wrapper.jar
+.DS_Store
+
+# Resource
+src/main/resources/settings.json
+
+
