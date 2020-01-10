@@ -1,0 +1,2 @@
+# SortRiddleForDiscord
+SortRiddleゲームをDiscordで遊ぶためのBot
