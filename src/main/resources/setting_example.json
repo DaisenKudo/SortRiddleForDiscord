@@ -1,5 +1,5 @@
 {
   "token": "Write Your Bot Token Here. Then Rename this 'settings.json'.",
   "channelid": "Write Channel ID that You Want to Manage.",
-  "qlimit": "6Write You Want to Use Question Minimum Characters"
+  "qlimit": "Write You Want to Use Question Minimum Characters"
 }
