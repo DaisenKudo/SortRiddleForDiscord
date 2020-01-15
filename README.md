@@ -1,6 +1,11 @@
 # SortRiddleForDiscord
 SortRiddleゲームをDiscordで遊ぶためのBot
 
+# SortRiddleとは
+ある単語をバラバラに並べ替えたものから元の単語を考えるゲームです。  
+例:  
+「ルンザエフイン」-->「インフルエンザ」  
+
 # 利用方法
 1. Discord Botを作成する。右記の権限が必要です。「Send Messages」「Embed Links」「Read Message History」「Mention Everyone」
 1. コンパイルする
