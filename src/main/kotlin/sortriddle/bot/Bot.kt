@@ -72,8 +72,9 @@ object Bot {
                     "/rで出題します。"
         }
         val ans = aStr
+        val url = "https://ja.wikipedia.org/wiki/$aStr"
         clear()
-        return "正解は${ans}ずら。"
+        return "正解は${ans}ずら。\n$url"
     }
 
     fun clear(): String {
